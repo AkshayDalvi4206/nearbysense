@@ -1,0 +1,6 @@
+========================================
+            NearbySense
+     Intent-Based Place Discovery
+========================================
+
+Java ${java.version} | Spring Boot
