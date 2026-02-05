@@ -1,3 +1,9 @@
 spring:
+  profiles:
+    active: local
   application:
     name: Nearbysense
+
+google:
+  api:
+    key: AIzaSyDC2fLOmESB2MQa1DJZnX60KFEL2Lt4W0E
